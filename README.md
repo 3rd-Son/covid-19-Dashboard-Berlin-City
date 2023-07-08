@@ -1,6 +1,6 @@
 # COVID-19 Dashboard for Berlin City
 
-![logo](logo 1.jpeg)
+![logo](https://github.com/Vic3sax/covid-19-Dashboard-Berlin-City/blob/main/logo%201.jpeg)
 
 This is a COVID-19 dashboard that provides daily updates of the 7-day incidence, rolling 7-day average number of new cases, and raw number of new reported COVID-19 cases in Berlin City. The data used in this dashboard are sourced from the official figures provided by the Berlin government.
 
