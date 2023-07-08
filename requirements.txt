@@ -1,7 +1,5 @@
+streamlit==1.24.0
+pandas==1.5.2
 matplotlib
-mplcyberpunk
-pandas
-Pillow
-streamlit
-
-
+mplcyberpunk==0.7.0
+Pillow==9.3.0
